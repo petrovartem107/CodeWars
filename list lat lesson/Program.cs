@@ -13,9 +13,9 @@ namespace list_lat_lesson
             //    Console.WriteLine(item);
             //}
 
-            Console.WriteLine(Remove("Hi!"));
-            Console.WriteLine(Remove("Hi!!!"));
-            Console.WriteLine(Remove("!Hi"));
+            //Console.WriteLine(Remove("Hi!"));
+            //Console.WriteLine(Remove("Hi!!!"));
+            //Console.WriteLine(Remove("!Hi"));
             Console.WriteLine(Remove("!Hi!"));
 
         }
